@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28b9290ab52db64290b498b847af355, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  Speed: 5
+  Agility: 5
+  SwitchDuration: 5
+  SpikeCooldown: 0.3
+  SpikeTargetDistance: 6
+  SpikeDamage: 2
+  GunCooldown: 0.3
+  GunBulletSpeed: 15
+  GunBulletDamage: 2.5
+  TokenAmount: 28
